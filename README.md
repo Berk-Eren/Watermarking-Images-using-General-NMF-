@@ -1,2 +1,4 @@
 # Watermarking-Images-using-General-NMF-
-This project is implemented from the paper..
+I have tried to implement this project based on the from the following paper. 
+
+Z. Chen, L. Li, H. Peng, Y. Liu, and Y. Yang, “A novel digital watermarking based on general non-negative matrix factorization,” IEEE Transactions on Multimedia, vol. 20, no. 8, pp. 1973–1986, Aug 2018
